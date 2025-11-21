@@ -102,8 +102,4 @@ INSERT INTO books (book_id, title, price) VALUES (1, '책 B', 15000);
 
 * 에러 설명:
 * 원인:
-* PRIMARY KEY 규칙:
-
-```
-
-
+* PRIMARY KEY 규칙: 
